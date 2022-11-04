@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.desenvolvedor{
+text-align: center;
+padding-top: 265px;
+font-size: 24px;
+color: white;
+text-shadow: 3px 3px orange;
+}
+.principal{
+    text-align: center;
+    padding-top: 18px;
+    font-size: 80px;
+    font-family: kanit;
+    color: white;
+    text-shadow: 3px 3px orange;
+    
+}
+.apontamentos{
+    text-align: center;
+    padding-top: 10px;
+    font-size: 24px;
+    color: white;
+    text-shadow: 1px 1px orange;
+}
+.tituloprojetos{
+    text-align: center;
+    padding-top: 55px;
+    font-size: 26px;
+    color: white;
+    text-shadow: 1px 1px orange;
+}
+.acesso{
+    text-align: center;
+    padding-top: 10px;
+    font-size: 20px;
+    color: white;
+    text-shadow: 1px 1px orange;
+}
+.fundo{
+    background: url(img/fundo3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+body{
+    background-image: url(img/fundo3.png);
+}
+.camada-escura{
+    background: rgba(0, 0, 0, 0.3);
+    height: 100vh;
+}
