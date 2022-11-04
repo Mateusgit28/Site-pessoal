@@ -52,6 +52,11 @@ body{
     background-image: url(img/fundo3.png);
 }
 .camada-escura{
-    background: rgba(0, 0, 0, 0.3);
-    height: 100vh;
+    background: rgba(0, 0, 0, 0.6);
+    min-height: 100vh;
+}
+.github{
+    display: flex;
+    width: 500px;
+    height: 500px;
 }
